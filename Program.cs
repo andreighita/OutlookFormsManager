@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -197,8 +197,8 @@ namespace OutlookFormsManager
             if ((runtimeOptions.mode & SetDefaultInboxForm) == SetDefaultInboxForm)
                 OutlookFormsProxy.SetDefaultInboxForm(runtimeOptions.formName, runtimeOptions.formClass);
             if ((runtimeOptions.mode & ResetDefaultForms) == ResetDefaultForms)
-                OutlookFormsProxy.ResetDefaultForms();
-
+                Console.WriteLine("Reset logic not yet implemented!");  
+                //OutlookFormsProxy.ResetDefaultForms();
             OutlookFormsProxy.Exit();
         }
 
