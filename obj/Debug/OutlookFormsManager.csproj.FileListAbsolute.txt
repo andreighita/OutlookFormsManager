@@ -1,0 +1,7 @@
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\bin\Debug\OutlookFormsManager.exe.config
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\bin\Debug\OutlookFormsManager.exe
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\bin\Debug\OutlookFormsManager.pdb
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\obj\Debug\OutlookFormsManager.csproj.ResolveComReference.cache
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\obj\Debug\OutlookFormsManager.csproj.CoreCompileInputs.cache
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\obj\Debug\OutlookFormsManager.exe
+C:\source\dsmsgeu\ObjectModelSamples\ObjectModelSamples\OutlookFormsManager\obj\Debug\OutlookFormsManager.pdb
