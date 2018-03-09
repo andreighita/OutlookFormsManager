@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Outlook = Microsoft.Office.Interop.Outlook;
 using System.IO;
 using System.Runtime.InteropServices;
@@ -293,9 +293,9 @@ namespace OutlookFormsManager
             try
             {
                 inboxFolder = m_NameSpace.GetDefaultFolder(Outlook.OlDefaultFolders.olFolderInbox);
-                SetDefaultFormOnFolder(inboxFolder, "IPM.Note", "Message");
+                SetDefaultFormOnFolder(inboxFolder, "Message", "IPM.Note");
                 calendarFolder = m_NameSpace.GetDefaultFolder(Outlook.OlDefaultFolders.olFolderCalendar);
-                SetDefaultFormOnFolder(inboxFolder, "IPM.Appointment", "Appointment");
+                SetDefaultFormOnFolder(calendarFolder,  "Appointment", "IPM.Appointment");
             }
             catch (Exception exception)
             {
